@@ -1,0 +1,159 @@
+/********************************************************    for the Header    **********************************************************/
+
+/*****************  for search box  *****************/
+
+.input{
+    width: 510px;
+    height: 37px;
+    margin-left: 10px;
+}
+
+/*****************  for login button  *****************/
+
+.login{
+    padding-left: 42 px;  
+    background-color: white;
+    width: 120px;
+    height: 35px;  
+    color: rgb(40, 116, 240);
+    font-weight: bold  ;
+    border: 0px;
+}
+
+.loginPadding{
+    padding-left: 44px;
+}
+
+/*****************  for search button  *****************/
+
+.search{
+    border: 0px;
+    cursor: pointer;
+}
+
+/*****************  for more button   *****************/
+
+.morePadding{
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+/*****************  for cart button  *****************/
+
+.cartPadding{
+    padding-left: 25px;
+    cursor: pointer;
+}
+
+/*****************   for last td    *****************/
+
+.last{
+    width: 150px;
+}
+
+
+
+
+
+
+/*******************************************************    for the Navbar    ***********************************************************/
+
+
+/***************************    For td in Navbar     ***************************/
+
+.td{
+    text-align: center;
+    font-weight: 550;
+    font-size: 13px;
+    padding-top: 3px;
+}
+
+/*************    For The Options in Hovering mouse in Navbar     **************/
+.dropdown-content {
+		display: none;
+		background-color: #f9f9f9;
+      	        min-width: 110px;
+	        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	        padding: 10px;
+	        position:absolute;
+	        text-align:center;
+	        z-index: 1;
+         	min-width: 160px;
+    	        min-height: 60px;
+}
+
+
+/*************  TO Show DropDown Contect class while hovering      **************/
+
+.dropdown:hover .dropdown-content {
+ 		 display: block;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+/*******************************    Unknown      *******************************/
+
+
+.myOrder{
+		text-decoration: none;
+}
+.content{
+    height: 300px;
+    background-color: rgb(241,243, 246);
+}
+
+
+
+
+
+			
+/*******************************************************    for the Footer    **********************************************************/
+
+
+
+
+/*************************      For footer Class     ***************************/
+
+.footer{
+    color: white;
+}
+
+
+/*********************      For footerhead Class     ***************************/
+
+.footerHead{
+    list-style-type: none;
+}
+
+.footer{
+    background-color: #172337;
+    padding-top: 30px;
+}
+
+/****************************      For h Class     *****************************/
+.h{
+    color: white;
+    font-family:sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.h:hover{
+	color:white;
+    text-decoration: underline;
+}
+
+/****************************      For m Class     ****************************/
+.m{
+    color: white;
+    font-family:sans-serif;
+    font-size: 12px;
+    list-style-type: none;
+    padding: 2px;
+    
+}
+
+
