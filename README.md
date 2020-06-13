@@ -15,15 +15,20 @@
 ## Description :  
 *   This is an E-comerce Web-Application where user first have register themself and they can login.
    After logging in they can browse all the Products avaliable in the App. They can search the product
-   they can use Navbar to serach specific product. They can view the Product, they can add it to their
+   they can use Navbar to search specific product. They can view the Product, they can add it to their
    cart or they can also add it to their wish list. Afte adding all the product to the cart the can
-   procede to the payment, where they have to give ther address and make the Payment. user can view all
-   the Products the have ordered in the "My order section
+   proceed to the payment, where they have to give ther address and make the Payment. user can view all
+   the Products the have ordered in the "My order" section of the App.
    
 *   All the action done by the user will be stored in the Database. And User can see it anytime they login.
 
-*   This is an JSP & Servlets Project. Hibernate is used for all the Database related operation. 
-    MySQL is used as Database. MVC Pattern has been followed in he Project.
+*   This is an JSP & Servlets based Web-Project(created in Eclipse) . 
+
+*   Hibernate is used for all the Database related operation. 
+
+*   MySQL is used as Database. 
+
+*   MVC Pattern has been followed in the Project.
 
 ## How It Wokrs? :
               
