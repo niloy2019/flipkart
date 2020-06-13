@@ -10,7 +10,7 @@
   To Make an E-coemmerce Web-Application.
   
 ## Technology Used :
-  HTML, CSS, Javascript, Bootstrap, Jsp, Servelts ,JSTL ,Hibernate ,JDBC ,MySQL
+  Java, JSP & Servelts ,JSTL ,Hibernate ,JDBC ,MySQL ,HTML, CSS, Javascript, Bootstrap
 
 ## Description :  
 *   This is an E-comerce Web-Application where user first have register themself and they can login.
