@@ -1,14 +1,23 @@
 # flipkart
 
-### Description :  
-                 This is an E-comerce Web-Application like flipkart ,where User can do shopping after logiing in .
-                 User can browse  the Product, search the produc,add to cart, and place the order and can see his
-                 all orders .
+## Author Name : 
+   Niloy Chakraborty
 
-### Technology Used :
-               HTML, CSS, Javascript, Bootstrap, Jsp, Servelts ,JSTL ,Hibernate ,JDBC ,MySQL
+## Application Name : 
+  flipkart
 
-### Step by Step Explanaion :
+## Objective : 
+  To Make an E-coemmerce Web-Application. 
+
+## Description :  
+   This is an E-comerce Web-Application like flipkart ,where User can do shopping after logiing in .
+   User can browse  the Product, search the produc,add to cart, and place the order and can see his
+   all orders .
+
+## Technology Used :
+  HTML, CSS, Javascript, Bootstrap, Jsp, Servelts ,JSTL ,Hibernate ,JDBC ,MySQL
+
+## Step by Step Explanaion :
               
               -->Here,User first have to sign up themself .
               
