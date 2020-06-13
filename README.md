@@ -7,63 +7,73 @@
   flipkart
 
 ## Objective : 
-  To Make an E-coemmerce Web-Application. 
-
-## Description :  
-   This is an E-comerce Web-Application like flipkart ,where User can do shopping after logiing in .
-   User can browse  the Product, search the produc,add to cart, and place the order and can see his
-   all orders .
-
+  To Make an E-coemmerce Web-Application.
+  
 ## Technology Used :
   HTML, CSS, Javascript, Bootstrap, Jsp, Servelts ,JSTL ,Hibernate ,JDBC ,MySQL
 
-## Step by Step Explanaion :
+## Description :  
+*   This is an E-comerce Web-Application where user first have register themself and they can login.
+   After logging in they can browse all the Products avaliable in the App. They can search the product
+   they can use Navbar to serach specific product. They can view the Product, they can add it to their
+   cart or they can also add it to their wish list. Afte adding all the product to the cart the can
+   procede to the payment, where they have to give ther address and make the Payment. user can view all
+   the Products the have ordered in the "My order section
+   
+*   All the action done by the user will be stored in the Database. And User can see it anytime they login.
+
+*   This is an JSP & Servlets Project. Hibernate is used for all the Database related operation. 
+    MySQL is used as Database. MVC Pattern has been followed in he Project.
+
+## How It Wokrs? :
               
-              -->Here,User first have to sign up themself .
+              -->  Here,User first have to sign up themself .
               
-              -->Then,They have to login .
+              -->  Then,They have to login .
               
-              -->User can browse n number of products availiable in the Website . User can browse by dropdown menu
-                 list or by searching the product by name or by scrolling manually(like flipkart).
+              -->  User can browse n number of products availiable in the Website . User can browse by dropdown menu
+                   list or by searching the product by name or by scrolling manually(like flipkart).
                  
-              -->If user clicks an Item , He will be redirected to the Product Details page ,where he can find all
-                 the Details about that Product.
+              -->  If user clicks an Item , He will be redirected to the Product Details page ,where he can find all
+                   the Details about that Product.
                  
-              -->In, Product Details Page He can add the Product to the cart by clicking "Add to Cart" .He will
-                 be redirected to the Cart .And If he click "Buy Now" He will be redirected to the Payment page .
+              -->  In, Product Details Page He can add the Product to the cart by clicking "Add to Cart" .He will
+                   be redirected to the Cart .And If he click "Buy Now" He will be redirected to the Payment page .
                  
-              -->User can add as much possible Prodcut he likes to his cart, information will be stored in Database.
+              -->  User can add as much possible Prodcut he likes to his cart, information will be stored in Database.
               
-              -->If user want to save an product ,but dont waant to buy, He can do that by clicking "Save for later"
-                 button in the Cart Page.
+              -->  If user want to save an product ,but dont waant to buy, He can do that by clicking "Save for later"
+                   button in the Cart Page.
                  
-              -->After Adding all the Product User can click "Proceed" button in cart Page,which will redirect to 
-                 Payment Page.
+              -->  After Adding all the Product User can click "Proceed" button in cart Page,which will redirect to 
+                   Payment Page.
                  
-              -->In Paymebt Page , 
+              -->  In Paymebt Page , 
                        
-                       (i) Firstly User have to fill an form to provide the address of the Order  and then Proceed.
+                       * Firstly User have to fill an form to provide the address of the Order  and then Proceed.
                         
-                      (ii) Secondly,after filling address User can see all the Product he is going to order .He can
-                          remove ,reduce any Item here and then he can continue further.
+                       * Secondly,after filling address User can see all the Product he is going to order .He can
+                         remove ,reduce any Item here and then he can continue further.
                      
-                     (iii) Lastly, He have to pay the Amount in whicherver mode he wants.
+                       * Lastly, He have to pay the Amount in whicherver mode he wants.
               
-              -->After that,One confirmation massege will be shown to the user .
+              -->  After that,One confirmation massege will be shown to the user .
               
-              -->User can check his existing order by going to MyOrders Page .In MyOrders Page all the information 
-                related to the order user have plced will be shown . And Delivery date and Return date also will be
-                shwon
+              -->  User can check his existing order by going to MyOrders Page .In MyOrders Page all the information 
+                   related to the order user have plced will be shown . And Delivery date and Return date also will be
+                   shown.
                 
-              -->In Myorders page If User clicks on an Order ,one more page will be open ,where he can see every
-               information related to the Order .
+              -->  In Myorders page If User clicks on an Order ,one more page will be open ,where he can see every
+                   information related to the Order .
               
-              -->User can keep Shopping !!(Happy Shopping)
+              -->  User can keep Shopping !!(Happy Shopping)
                         
                         Thats all about this Project . The Whole Project is shown with screenshots below .
                         
 
 
+
+# Images of Project :
 
 ## 1.Home Page : 
 ![](https://github.com/niloy2019/flipkart/blob/master/images/home.PNG)
